@@ -9,7 +9,7 @@ sudo apt install apache2 -y
 # Create an index.html file with "Hello, World!" content
 echo "<html>
 <head>
-  <title>praveen babu thotatitle>
+  <title>praveen babu thota<title>
 </head>
 <body>
   <h1>praveen babu thota!</h1>
