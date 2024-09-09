@@ -15,3 +15,5 @@ echo "<html>
   <h1>praveen babu thota!</h1>
 </body>
 </html>" | sudo tee /var/www/html/index.html
+
+systemctl restart apache2
