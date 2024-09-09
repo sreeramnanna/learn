@@ -16,4 +16,4 @@ echo "<html>
 </body>
 </html>" | sudo tee /var/www/html/index.html
 
-systemctl restart apache2
+systemctl status apache2.service
